@@ -12,6 +12,7 @@
   },
   "packageManager": "yarn@3.4.1",
   "dependencies": {
-    "@storipress/karbon": "^0.1.0"
+    "@storipress/karbon": "^0.1.0",
+    "karbon": "^0.0.0"
   }
 }
